@@ -1,0 +1,95 @@
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\bin\Debug\tetio.dll
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.exe
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.pdb
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\bin\Debug\Tobii.EyeTracking.IO.dll
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationResultForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationResultPanel.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.FrameRateDialog.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.MainForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Properties.Resources.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.TrackStatusControl.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\obj\Debug\EyeTrackingExperiment.csproj.GenerateResource.Cache
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\obj\Debug\Basic Eyetracking Sample.exe
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\obj\Debug\Basic Eyetracking Sample.pdb
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\obj\Debug\EyeTrackingExperiment.csprojResolveAssemblyReference.cache
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.gazeRecording.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.exe.config
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\Basic Eyetracking Sample.exe
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\Basic Eyetracking Sample.pdb
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\bin\Debug\tetio.dll
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.exe
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.pdb
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\bin\Debug\Tobii.EyeTracking.IO.dll
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\EyeTrackingExperiment.csprojResolveAssemblyReference.cache
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationForm.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationResultForm.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationResultPanel.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.FrameRateDialog.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.gazeRecording.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.MainForm.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Properties.Resources.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.TrackStatusControl.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Tutorial.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\EyeTrackingExperiment.csproj.GenerateResource.Cache
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Questionnaire.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationResultForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationResultPanel.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.focusCalibrationForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.MainForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Properties.Resources.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Questionnaire.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.recordForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.TrackStatusControl.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.trainingForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Tutorial.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\EyeTrackingExperiment.csproj.GenerateResource.Cache
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\bin\Debug\tetio.dll
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.exe.config
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.exe
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.pdb
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\bin\Debug\Tobii.EyeTracking.IO.dll
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\EyeTrackingExperiment.csprojResolveAssemblyReference.cache
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\Basic Eyetracking Sample.exe
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS\Basic Eyetracking Sample\obj\Debug\Basic Eyetracking Sample.pdb
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.exe.config
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\Basic Eyetracking Sample.exe
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\Basic Eyetracking Sample.pdb
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\bin\Debug\tetio.dll
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.exe
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.pdb
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\bin\Debug\Tobii.EyeTracking.IO.dll
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\EyeTrackingExperiment.csprojResolveAssemblyReference.cache
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationForm.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationResultForm.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationResultPanel.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.focusCalibrationForm.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.MainForm.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Properties.Resources.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Questionnaire.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.recordForm.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.TrackStatusControl.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.trainingForm.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Tutorial.resources
+C:\Users\Noura\Documents\Visual Studio 2015\Projects\VS1\Basic Eyetracking Sample\obj\Debug\EyeTrackingExperiment.csproj.GenerateResource.Cache
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.exe.config
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\Basic Eyetracking Sample.exe
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\Basic Eyetracking Sample.pdb
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\bin\Debug\tetio.dll
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.exe
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\bin\Debug\Basic Eyetracking Sample.pdb
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\bin\Debug\Tobii.EyeTracking.IO.dll
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\EyeTrackingExperiment.csprojResolveAssemblyReference.cache
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationResultForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.CalibrationResultPanel.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.focusCalibrationForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.MainForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Properties.Resources.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Questionnaire.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.recordForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.TrackStatusControl.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.trainingForm.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\BasicEyetrackingSample.Tutorial.resources
+C:\Users\karessli\Documents\Visual Studio 2013\Projects\VS1\Basic Eyetracking Sample\obj\Debug\EyeTrackingExperiment.csproj.GenerateResource.Cache

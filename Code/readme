@@ -1,0 +1,4 @@
+This code is written in C# using MSVS 
+The code make use of Tobii eye tracker manufacture SDK
+
+you have to place your dataset in the specified folder and change the corresponding paths in the code

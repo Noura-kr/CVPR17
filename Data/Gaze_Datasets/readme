@@ -1,0 +1,27 @@
+raw gaze data in .csv each row is a raw gaze point, the comma separated values are:
+- class cub_id
+- distractor class cub_id
+- participant id
+- recorded image cub_id
+- timestamp
+- left eye:
+  - x
+  - y
+  - pupil diameter
+  - validity code
+- right eye:
+    - x
+    - y
+    - pupil diameter
+    - validity code
+
+  processed gaze data in .csv each row is a gaze point, the comma separated values are:
+    - class cub_id
+    - participant id
+    - recorded image cub_id
+    - timestamp
+    - average of two eyes
+      - x
+      - y
+      - pupil diameter
+    

@@ -1,0 +1,7 @@
+- Image features extracted using GoogLeNet model from Caffe library
+- Features are l2_normalised
+- Each dataset file is a dictionary that contains:
+    - x (1024 dims features)
+    - y (class index)
+    - counts (number of images of each class, used for per class acc)
+    - images (maps features to images names, used for qualitative results)
