@@ -1,6 +1,5 @@
 # Gaze Embeddings for Zero-Shot Image Classification
 
-[![N|Solid](http://www.mpi-inf.mpg.de/fileadmin/_processed_/csm_gaze_teaser_5963385378.png)](https://nodesource.com/products/nsolid)
 
 Code and gaze data for CVPR17 [paper] 
 ### Data
