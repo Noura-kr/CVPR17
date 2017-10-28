@@ -1,0 +1,3 @@
+The order of class embeddings of each dataset is defined in mappings files (datasetname_mapping.txt) in following format:
+    embedding_id class_id
+class_id: is the original class_id from the dataset (cub_id or PETS_id).
